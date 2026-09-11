@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Building+Applications+that+Matter;B.Tech+Computer+Engineering+Student;Full-Stack+(MERN)+&+Native+Android" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Building+Applications+that+Matter;B.Tech+Computer+Engineering+Student;Full-Stack+(MERN)+&+Native+Android;UI%2FUX+Design+%26+Figma+Expert" alt="Typing SVG" />
   </a>
 
   <br>
@@ -28,17 +28,16 @@
   <table>
     <tr>
       <td width="60%">
-        <!-- Static About Me Heading -->
         <h2 align="left">🚀 About Me</h2>
         <ul>
           <li>🎓 <b>Education:</b> B.Tech in Computer Engineering at TCET, Mumbai (Direct Second Year) | Diploma in Computer Technology .</li>
           <li>💻 <b>Focus:</b> Full-Stack Web (MERN), Native Mobile (Android/React Native), and AI/Data Science integrations.</li>
+          <li>🎨 <b>Design:</b> Experienced in UI/UX design, creating thorough, highly intuitive user experiences and prototypes using Figma.</li>
           <li>🧠 <b>Currently Learning:</b> Advanced Machine Learning algorithms </li>
         </ul>
       </td>
       <td width="40%" align="center">
-        <!-- Kept your preferred 3D Animated Guy -->
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="3D Animated Coder" />
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" t="3D Animated Coder" />
       </td>
     </tr>
   </table>
@@ -47,7 +46,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 <div align="center">
-  <!-- Static Tech Stack Heading -->
   <h2>💻 Tech Stack & Tools</h2>
 </div>
 <br>
@@ -65,14 +63,13 @@
   </a>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,scikit" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,vercel,figma" alt="Tools" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 <div align="center">
-  <!-- Static Projects Heading -->
   <h2>🌟 Featured Projects</h2>
 </div>
 <br>
@@ -119,14 +116,12 @@
 
 <div align="center">
   <br>
-  <!-- Beautiful Static Developer Quote -->
   <h3><i>"First, solve the problem. Then, write the code."</i></h3>
   <p>— John Johnson</p>
   <br>
 </div>
 
 <div align="center">
-  <!-- Static Snake Grid Heading -->
   <h2>🐍 Contribution Grid Snake</h2>
   
   <picture>
