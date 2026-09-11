@@ -3,9 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Building+Applications+that+Matter;B.Tech+Computer+Engineering+Student;Full-Stack+(MERN)+&+Native+Android" alt="Typing SVG" />
-  </a>
+  <!-- Static Subtitle Text -->
+  <h3>Building Applications that Matter | B.Tech Computer Engineering Student | Full-Stack (MERN) & Native Android</h3>
 
   <br>
 
@@ -28,7 +27,8 @@
   <table>
     <tr>
       <td width="60%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=8B5CF6&center=false&vCenter=false&width=300&height=40&lines=About+Me" alt="About Me" />
+        <!-- Static About Me Heading -->
+        <h2 align="left">🚀 About Me</h2>
         <ul>
           <li>🎓 <b>Education:</b> B.Tech in Computer Engineering at TCET, Mumbai (Direct Second Year) | Diploma in Computer Technology .</li>
           <li>💻 <b>Focus:</b> Full-Stack Web (MERN), Native Mobile (Android/React Native), and AI/Data Science integrations.</li>
@@ -37,7 +37,8 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://user-images.githubusercontent.com/41234408/106292415-37651a00-627c-11eb-9878-5a21e4cb8e6c.gif" width="400" alt="3D Animated Coder" />
+        <!-- Kept your preferred 3D Animated Guy -->
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="3D Animated Coder" />
       </td>
     </tr>
   </table>
@@ -46,7 +47,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&height=40&lines=Tech+Stack+&+Tools" alt="Tech Stack" />
+  <!-- Static Tech Stack Heading -->
+  <h2>💻 Tech Stack & Tools</h2>
 </div>
 <br>
 <p align="center">
@@ -70,7 +72,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=400&height=40&lines=Featured+Projects" alt="Projects" />
+  <!-- Static Projects Heading -->
+  <h2>🌟 Featured Projects</h2>
 </div>
 <br>
 <table>
@@ -115,12 +118,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Developer Quote" />
+  <br>
+  <!-- Beautiful Static Developer Quote -->
+  <h3><i>"First, solve the problem. Then, write the code."</i></h3>
+  <p>— John Johnson</p>
+  <br>
 </div>
 
-<br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F59E0B&center=true&vCenter=true&width=450&height=40&lines=Contribution+Grid+Snake" alt="Snake Grid" />
+  <!-- Static Snake Grid Heading -->
+  <h2>🐍 Contribution Grid Snake</h2>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujjawal200716/ujjawal200716/output/github-contribution-grid-snake-dark.svg">
