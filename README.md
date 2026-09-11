@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <!-- Static Subtitle Text -->
-  <h3>Building Applications that Matter | B.Tech Computer Engineering Student | Full-Stack (MERN) & Native Android</h3>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Building+Applications+that+Matter;B.Tech+Computer+Engineering+Student;Full-Stack+(MERN)+&+Native+Android" alt="Typing SVG" />
+  </a>
 
   <br>
 
@@ -33,7 +34,6 @@
           <li>🎓 <b>Education:</b> B.Tech in Computer Engineering at TCET, Mumbai (Direct Second Year) | Diploma in Computer Technology .</li>
           <li>💻 <b>Focus:</b> Full-Stack Web (MERN), Native Mobile (Android/React Native), and AI/Data Science integrations.</li>
           <li>🧠 <b>Currently Learning:</b> Advanced Machine Learning algorithms </li>
-          <li>📍 <b>Location:</b> Kalyan, Maharashtra, India.</li>
         </ul>
       </td>
       <td width="40%" align="center">
