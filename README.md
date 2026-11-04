@@ -1,159 +1,132 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Ujjawal%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Mobile%20Apps%20%7C%20AI%20%26%20ML&descAlignY=62&descSize=20&descColor=bae6fd" width="100%" alt="Header" />
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ujjawal%20Singh&fontSize=60&fontAlignY=35&animation=twinkling&desc=Full-Stack%20%7C%20Mobile%20Apps%20%7C%20AI/ML&descAlignY=55&descSize=22" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Web+%26+Mobile+Applications;B.Tech+Computer+Engineering+%40+TCET+Mumbai;MERN+Stack+%7C+Native+Android+%7C+React+Native;Crafting+Intuitive+UI%2FUX+in+Figma" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Building+Applications+that+Matter;B.Tech+Computer+Engineering+Student;Full-Stack+(MERN)+&+Native+Android;UI%2FUX+Design+%26+Figma+Expert" alt="Typing SVG" />
+  </a>
 
-  <br><br>
+  <br>
 
-  <!-- Social & Contact Links -->
-  <p align="center">
-    <a href="https://sympto.in" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/your-linkedin-url" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/ujjawal200716" target="_blank">
-      <img src="https://img.shields.io/github/followers/ujjawal200716?label=Followers&style=for-the-badge&logo=github&color=1e293b&labelColor=0f172a" alt="GitHub Followers" />
-    </a>
-  </p>
+  <p align="center">
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=28" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin-url">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=28" alt="LinkedIn" />
+    </a>
+    <a href="https://sympto.in">
+      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white&height=28" alt="Portfolio" />
+    </a>
+  </p>
 </div>
 
----
-
-### ⚡ About Me
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech in Computer Engineering at <b>TCET, Mumbai</b> (Direct Second Year) & Diploma in Computer Technology.</li>
-        <li>💻 <b>Core Engineering:</b> Architecting full-stack web apps (<b>MERN</b>), cross-platform & native mobile apps (<b>React Native / Android</b>), and integrating <b>AI/ML workflows</b>.</li>
-        <li>🎨 <b>Product Design:</b> Designing clean, user-centric interfaces and interactive wireframes in <b>Figma</b> before writing code.</li>
-        <li>🧠 <b>Current Focus:</b> Deepening expertise in Advanced Machine Learning algorithms & scalable backend architectures.</li>
-      </ul>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320" alt="Animated Coder" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Tooling
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>Languages</b></td>
-      <td align="center" width="25%"><b>Frontend & Mobile</b></td>
-      <td align="center" width="25%"><b>Backend & DB</b></td>
-      <td align="center" width="25%"><b>DevOps & Design</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,python,java,html,css&perline=3" alt="Languages" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,vite,androidstudio&perline=3" alt="Frontend & Mobile" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,sqlite&perline=3" alt="Backend & Databases" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vercel,figma&perline=3" alt="Tools" />
-      </td>
-    </tr>
-  </table>
+  <table>
+    <tr>
+      <td width="60%">
+        <h2 align="left">🚀 About Me</h2>
+        <ul>
+          <li>🎓 <b>Education:</b> B.Tech in Computer Engineering at TCET, Mumbai (Direct Second Year) | Diploma in Computer Technology .</li>
+          <li>💻 <b>Focus:</b> Full-Stack Web (MERN), Native Mobile (Android/React Native), and AI/Data Science integrations.</li>
+          <li>🎨 <b>Design:</b> Experienced in UI/UX design, creating thorough, highly intuitive user experiences and prototypes using Figma.</li>
+          <li>🧠 <b>Currently Learning:</b> Advanced Machine Learning algorithms </li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" t="3D Animated Coder" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🩺 <a href="https://sympto.in">Sympto</a></h3>
-      <p align="center">
-        AI-powered health assessment web platform featuring interactive body mapping, automated screenshot capture, and client-side PDF medical report generation.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=flat-square" />
-        <a href="https://sympto.in"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=black" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 EduProAI</h3>
-      <p align="center">
-        All-in-one intelligent learning platform equipped with AI-driven smart note generation, automated document parsing, and ATS resume analysis tools.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 AttendancePro</h3>
-      <p align="center">
-        Mobile attendance management system built for educational institutions with streamlined student onboarding and intuitive swipe-based tracking.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/XML-00599C?style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🗳️ CampusVote</h3>
-      <p align="center">
-        Tamper-resistant campus election web application featuring role-based admin dashboards, strict schema validation, and real-time vote tallying.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Analytics & Contributions
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ujjawal200716&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjawal200716&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <h2>💻 Tech Stack & Tools</h2>
 </div>
-
 <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,java,html,css" alt="Languages" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,androidstudio" alt="Frontend & Mobile" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,sqlite" alt="Backend & Databases" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vercel,figma" alt="Tools" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujjawal200716/ujjawal200716/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujjawal200716/ujjawal200716/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ujjawal200716/ujjawal200716/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <h2>🌟 Featured Projects</h2>
+</div>
+<br>
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stethoscope.png" width="25" alt="Stethoscope"/> 
+        <a href="https://sympto.in">Sympto (sympto.in)</a>
+      </h4>
+      <p align="center">AI-powered health assessment web application utilizing interactive body mapping, JS-based PDF exports, and screenshot capturing.</p>
+      <p align="center"><b>Tech:</b> React, Node.js, AI Integration</p>
+    </td>
+    <td width="50%">
+      <h4 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" alt="Books"/> 
+        EduProAI
+      </h4>
+      <p align="center">Comprehensive educational platform with AI-driven smart note generation, document processing, and resume analysis tools.</p>
+      <p align="center"><b>Tech:</b> MERN Stack, REST APIs</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="25" alt="Phone"/> 
+        AttendancePro
+      </h4>
+      <p align="center">Mobile attendance management system for educational institutions featuring student onboarding and swipe-based tracking.</p>
+      <p align="center"><b>Tech:</b> Java, XML, React Native, MongoDB</p>
+    </td>
+    <td width="50%">
+      <h4 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ballot%20Box%20with%20Ballot.png" width="25" alt="Vote"/> 
+        CampusVote
+      </h4>
+      <p align="center">Secure campus voting web application with dedicated admin dashboards, strict database schemas, and API routes.</p>
+      <p align="center"><b>Tech:</b> Node.js, Express, MongoDB Atlas</p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Line" />
+
+<div align="center">
+  <br>
+  <h3><i>"First, solve the problem. Then, write the code."</i></h3>
+  <p>— John Johnson</p>
+  <br>
 </div>
 
-<hr>
-
 <div align="center">
-  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+  <h2>🐍 Contribution Grid Snake</h2>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujjawal200716/ujjawal200716/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujjawal200716/ujjawal200716/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ujjawal200716/ujjawal200716/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
